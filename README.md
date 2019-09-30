@@ -7,6 +7,13 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## Tutorials
 - [TensorFlow 2.0 Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
 
+## CNNs
+- [YoloV3](https://github.com/zzh8829/yolov3-tf2)
+
+## GANs, VAEs, and AEs
+- [CycleGAN, Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
+- [Music Transformer: Generating Music with Long-Term Structure](https://github.com/jason9693/MusicTransformer-tensorflow2.0)
+
 ## Credits
 This is based off my more long-standing established repository [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch).
 
