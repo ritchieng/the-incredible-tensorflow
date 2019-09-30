@@ -1,10 +1,8 @@
-# The Incredible TensorFlow 2
-<p align="center">
-	<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
-</p>
+# The Incredible TensorFlow
 
-This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the TensorFlow 2. Feel free to make a pull request to contribute to this list. **Take note, implementations are strictly based on TensorFlow 2 onwards only.**
+<img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 
+This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the TensorFlow 2. Feel free to make a pull request to contribute to this list. 
 
 ## Tutorials
 - [TensorFlow 2.0 Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
@@ -16,4 +14,4 @@ This is based off my more long-standing established repository [The Incredible P
 ## Contributions
 Do feel free to contribute!
 
-You can raise an issue or submit a pull request, whichever is more convenient for you. The guideline is simple: just follow the format of the previous bullet point. As a final reminder, only repositories with TensorFlow 2.0 onwards should be added here.
+You can raise an issue or submit a pull request, whichever is more convenient for you. The guideline is simple: just follow the format of the previous bullet point. **Take note, implementations are strictly based on TensorFlow 2 onwards only.**
