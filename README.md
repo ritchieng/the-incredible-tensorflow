@@ -1,4 +1,4 @@
-# The Incredible PyTorch
+# The Incredible TensorFlow 2
 
 This is a curated list of tutorials, projects, libraries, videos, papers, books and anything related to the TensorFlow 2. Feel free to make a pull request to contribute to this list. **Take note, implementations are strictly based on TensorFlow 2 onwards only.**
 
