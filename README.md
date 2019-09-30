@@ -1,4 +1,4 @@
-# The Incredible TensorFlow
+# The Incredible TensorFlow 2
 
 <img src="https://img.shields.io/badge/license-MIT-blue.svg"/>
 
