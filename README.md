@@ -11,8 +11,13 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 - [YoloV3](https://github.com/zzh8829/yolov3-tf2)
 
 ## GANs, VAEs, and AEs
-- [CycleGAN, Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
+- [CycleGAN: Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
 - [Music Transformer: Generating Music with Long-Term Structure](https://github.com/jason9693/MusicTransformer-tensorflow2.0)
+- [CartoonGAN: CartoonGAN: Generative Adversarial Networks for Photo Cartoonization](https://github.com/mnicnc404/CartoonGan-tensorflow)
+
+## NLP
+- [HuggingFace Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0](https://github.com/huggingface/transformers)
+
 
 ## Credits
 This is based off my more long-standing established repository [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch).
