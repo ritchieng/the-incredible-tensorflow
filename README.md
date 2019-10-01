@@ -6,6 +6,13 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 
 ## Tutorials
 - [TensorFlow 2.0 Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials)
+	- [Overview](https://github.com/dragen1860/TensorFlow-2.x-Tutorials/tree/master/01-TF2.0-Overview)
+	- [Static vs Dynamic Graph](https://github.com/dragen1860/TensorFlow-2.x-Tutorials/tree/master/02-AutoGraph)
+	- [FNN with MNIST](https://github.com/dragen1860/TensorFlow-2.x-Tutorials/tree/master/03-Play-with-MNIST)
+	- [Linear Regression](https://github.com/dragen1860/TensorFlow-2.x-Tutorials/tree/master/04-Linear-Regression)
+	- [FNN with FashionMNIST](https://github.com/dragen1860/TensorFlow-2.x-Tutorials/tree/master/05-FashionMNIST)
+	- [VGG with CIFAR](https://github.com/dragen1860/TensorFlow-2.x-Tutorials/tree/master/06-CIFAR-VGG)
+	- [Inception with MNIST](https://github.com/dragen1860/TensorFlow-2.x-Tutorials/tree/master/07-Inception)
 
 ## CNNs
 - [YoloV3](https://github.com/zzh8829/yolov3-tf2)
