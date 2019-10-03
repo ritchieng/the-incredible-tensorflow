@@ -25,6 +25,8 @@ This is a curated list of tutorials, projects, libraries, videos, papers, books 
 ## NLP
 - [HuggingFace Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0](https://github.com/huggingface/transformers)
 
+## Interpretability
+- [Model Interpretability Introduction](https://colab.research.google.com/drive/1xM6UZ9OdpGDnHBljZ0RglHV_kBrZ4e-9)
 
 ## Credits
 This is based off my more long-standing established repository [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch).
